@@ -1,357 +1,357 @@
 acrossBackFactor:
-    title: 'Across back factor' # TODO
-    description: 'Controls your across back width as a factor of your shoulder to shoulder measurement.' # TODO
+    title: 'Factor de ancho de espalda' 
+    description: 'Controla tu anchura de espalda como un factor de tu medida de hombro a hombro .'
 adjustmentRibbon:
-    title: 'Adjustment Ribbon' # TODO
-    description: 'Add a ribbon to make the tie adjustable.' # TODO
+    title: 'Cinta de ajuste' 
+    description: 'Añade una cinta para hacer la tira ajustable.' 
 armholeDepthFactor:
-    title: 'Armhole depth factor' # TODO
-    description: 'Controls the depth of the armhole. Higher values make a deeper armhole.' # TODO
+    title: 'Factor de profundidad de la sisa.' 
+    description: 'Controla la profundidad de la sisa. Valores más altos hacen una sisa más profunda.'
 armholeDrop:
-    title: 'Armhole drop' # TODO
-    description: 'Lower the armhole by this amount. Negative values will raise it.' # TODO
+    title: 'Caída de la sisa'
+    description: 'Baja la sisa con este valor. Valores negativos la elevarán.'
 backDrop:
-    title: 'Back drop' # TODO
-    description: 'How much the back panels lower from your hips towards your center back. Negative values will raise the back.' # TODO
+    title: 'Caída de la espalda' 
+    description: 'Cuánto bajar los paneles traseros desde tus caderas hasta el centro espalda. Valores negativos elevarán las espalda .'
 backInset:
-    title: 'Back inset' # TODO
-    description: 'Amount the back armhole is cut deeper into the back panel.' # TODO
+    title: 'Inserción trasera' 
+    description: 'Valor con el que la sisa trasera es cortada más profundamente en el panel trasero.'
 backOpening:
-    title: 'Back opening' # TODO
-    description: 'Opening at the center back closure.' # TODO
+    title: 'Abertura trasera' 
+    description: 'Abertura del cierre del centro espalda.' 
 backRise:
-    title: 'Back rise' # TODO
+    title: 'Altura de la espalda' 
     description:
-        _default: 'The amount by which to raise the back.' # TODO
-        bruce: 'Percentage by which the waist will be raised at the back.' # TODO
-        cathrin: 'How much the back panels rise from your arms to your center back.' # TODO
+        _default: 'El valor con el que subes la espalda' 
+        bruce: 'Porcentaje por el cual la cintura subirá en la espalda.'
+        cathrin: 'Cuánto suben los paneles traseros desde los brazos al centro espalda.'
 backScyeDart:
-    title: 'Back scye dart' # TODO
-    description: 'The amount to take out in a dart at the back of the armhole.' # TODO
+    title: 'Pinza de la sisa trasera' 
+    description: 'La cantidad a retirar mediante una pinza en la parte trasera de la sisa .'
 backVent:
-    title: 'Back vent' # TODO
-    description: 'Do you want a central back vent, or none at all?' # TODO
+    title: 'Abertura trasera' 
+    description: '¿Quieres una abertura trasera o ninguna?.'
 backVentLength:
-    title: 'Back vent length' # TODO
-    description: 'Controls the length of the back vent. Lower numbers result in a shorter vent.' # TODO
+    title: 'Largo de la abertura trasera' 
+    description: 'Controla el largo de la abertura trasera. Cifras más bajas dan como resultado una abertura más corta .'
 backlineBend:
-    title: 'Back armhole shape' # TODO
-    description: 'Determines the shape/bend of the back of the armholes.' # TODO
+    title: 'Forma del hueco trasero de la manga' 
+    description: 'Determina la forma/ pliegue de la parte trasera de las sisas.'
 barrelcuffNarrowButton:
-    title: 'Cuff narrow button' # TODO
-    description: 'Whether to include a button to tie the cuffs more narrow. This option is only relevant for barrel cuffs.' # TODO
+    title: 'Botón para estrechar el puño' 
+    description: 'Si deseas incluir un botón para estrechar más los puños. Esta opción solo es relevante para los puños redondos.'
 bicepsEase:
-    title: 'Biceps ease' # TODO
-    description: 'The amount of ease at your upper arm. Note that while we try to respect this, fitting the sleeve to the armhole takes precedence over respecting the exact amount of ease.' # TODO
+    title: 'Holgura de los biceps' 
+    description: 'La cantidad de holgura en la parte superior del brazo. Nótese que aunque intentemos respetar esto, el ajuste de la manga al hueco de la sisa es prioritario sobre el respeto a la cantidad de holgura exacta .'
 bowLength:
-    title: 'Bow length' # TODO
-    description: 'The length of the wings of the bow tie.' # TODO
+    title: 'Largo de la pajarita'
+    description: 'El largo de las alas de la pajarita.' 
 bowStyle:
-    title: 'Bow style' # TODO
-    description: 'The style of the bow.' # TODO
+    title: 'Estilo de la pajarita' 
+    description: 'El estilo de la pajarita.' 
 bulge:
-    title: Bulge # TODO
-    description: 'Increase angle to create more room in the front pouch.' # TODO
+    title: 'Abultamiento' 
+    description: 'Incrementa el ángulo para crear más espacio en el bolsillo frontal.' 
 buttonPlacketStyle:
-    title: 'Button placket style' # TODO
-    description: 'Style of the button placket.' # TODO
+    title: 'Estilo de tapeta de botonadura' 
+    description: 'Estilo de tapeta de botonadura.'
 buttonPlacketType:
-    title: 'Button placket type' # TODO
-    description: 'Type of the button placket.' # TODO
+    title: 'Tipo de tapeta de botonadura' 
+    description: 'Tipo de tapeta de botonadura.' 
 buttonPlacketWidth:
-    title: 'Button placket width' # TODO
-    description: 'Width of the button placket.' # TODO
+    title: 'Anchura de la tapeta de botonadura' 
+    description: 'Anchura de la tapeta de botonadura.' 
 buttonfreeLength:
-    title: 'Button free length' # TODO
-    description: 'How much of the bottom of the front closure to keep button-free.' # TODO
+    title: 'Largo sin botones'
+    description: 'Cuánto del bajo del cierre frontal deseas mantener libre de botones.'
 buttonholePlacketFoldWidth:
-    title: 'Buttonhole placket fold width' # TODO
-    description: 'Width of the buttonhole placket fold.' # TODO
+    title: 'Anchura del pliegue de la tapeta de botonadura'
+    description: 'Anchura del pliegue de la tapeta de botonadura.'
 buttonholePlacketStyle:
-    title: 'Buttonhole placket style' # TODO
-    description: 'Style of the buttonhole placket.' # TODO
+    title: 'Estilo de tapeta de botonadura' 
+    description: 'Estilo de tapeta de botonadura.' 
 buttonholePlacketType:
-    title: 'Buttonhole placket type' # TODO
-    description: 'Type of the buttonhole placket.' # TODO
+    title: 'Tipo de tapeta de botonadura' 
+    description: 'Tipo de tapeta de botonadura.' 
 buttonholePlacketWidth:
-    title: 'Buttonhole placket width' # TODO
-    description: 'Width of the butonhole placket.' # TODO
+    title: 'Anchura de la tapeta de botonadura'
+    description: 'Anchura de la tapeta de botonadura' 
 buttons:
-    title: 'Number of buttons' # TODO
-    description: 'The number of buttons on the front closure.' # TODO
+    title: 'Número de botones' 
+    description: 'El número de botones del cierre frontal.' 
 centerBackDart:
-    title: 'Center back dart' # TODO
-    description: 'The amount to take out in a dart at the top of the center back.' # TODO
+    title: 'Pinza central de la espalda' 
+    description: 'La cantidad a retirar mediante una pinza en la parte superior del centro espalda.'
 centerFrontHemDrop:
-    title: 'Center front hem drop' # TODO
-    description: 'The hem at the front is lowered by this ratio of your neck to hips vertical measurements.' # TODO
+    title: 'Caída del vuelto central'
+    description: 'El vuelto del frente se rebaja con este coeficiente de medida vertical de cuello a caderas.'
 chestEase:
-    title: 'Chest ease' # TODO
-    description: 'The amount of ease at your chest.' # TODO
+    title: 'Holgura del pecho' 
+    description: 'La cantidad de holgura en tu pecho.' 
 chestPocketAngle:
-    title: 'Chest pocket angle' # TODO
-    description: 'The angle of the chest pocket.' # TODO
+    title: 'Ángulo del bolsillo de pecho' 
+    description: 'El ángulo del bolsillo de pecho.' 
 chestPocketPlacement:
-    title: 'Chest pocket placement' # TODO
-    description: 'Location of the chest pocket as a proportion a quarter of your chest circumference. Higher numbers move it more to the side.' # TODO
+    title: 'Situación del bolsillo de pecho' 
+    description: 'Localización del bolsillo de pecho como una proporción del cuarto de tu contorno de pecho. Valores más altos lo mueven más hacia el costado.'
 chestPocketWeltSize:
-    title: 'Chest pocket welt height' # TODO
-    description: 'The height of the chest pocket welt.' # TODO
+    title: 'Altura del ribete del bolsillo de pecho.'
+    description: 'La altura del ribete del bolsillo de pecho.' 
 chestPocketWidth:
-    title: 'Chest pocket width' # TODO
-    description: 'The width of the chest pocket, as a factor of your chest circumference.' # TODO
+    title: 'Anchura del bolsillo de pecho' 
+    description: 'La anchura del bolsillo de pecho como un factor de tu contorno de pecho.' 
 chestShaping:
-    title: 'Chest shaping' # TODO
-    description: 'The vertical amount to slash & spread the upper front panel to shape the chest, as a factor of your chest circumference.' # TODO
+    title: 'Dar forma al pecho' 
+    description: 'La cantidad vertical con la que ampliar el panel frontal superior para dar forma al pecho, como un factor de tu contorno de pecho.' 
 collarAngle:
-    title: 'Collar angle' # TODO
-    description: 'The angle of the collar tips.' # TODO
+    title: 'Ángulo del cuello' 
+    description: 'El ángulo de las puntas del cuello.' 
 collarBend:
-    title: 'Collar bend' # TODO
-    description: 'The bend of the collar.' # TODO
+    title: 'Doblez del cuello' 
+    description: 'El doblez del cuello.' 
 collarEase:
-    title: 'Collar ease' # TODO
-    description: 'The amount of ease around your neck.' # TODO
+    title: 'Holgura del cuello' 
+    description: 'La cantidad de holgura alrededor de tu cuello.'
 collarFlare:
-    title: 'Collar flare' # TODO
-    description: 'The flare of the collar tips.' # TODO
+    title: 'Vuelo del cuello' 
+    description: 'El vuelo de las puntas de cuello.'
 collarGap:
-    title: 'Collar gap' # TODO
-    description: 'The gap between the the two collar ends.' # TODO
+    title: 'Distancia del cuello' 
+    description: 'La distancia entre las dos puntas del cuello.' 
 collarHeight:
-    title: 'Collar height' # TODO
-    description: 'This is the collar height at the back of the neck and can never be less than twice the roll line collar height.' # TODO
+    title: 'Altura del cuello' 
+    description: 'Esta es la altura del cuello en la parte trasera del cuello y nunca puede ser menor del doble de la altura de la línea de vuelta del cuello.'
 collarNotchAngle:
-    title: 'Collar notch angle' # TODO
-    description: 'Angle of the collar notch.' # TODO
+    title: 'Ángulo de la marca de registro del cuello' 
+    description: 'Ángulo de la marca de registro del cuello.' 
 collarNotchDepth:
-    title: 'Collar notch depth' # TODO
-    description: 'Depth of the collar notch.' # TODO
+    title: 'Profundidad de la marca de registro del cuello' 
+    description: 'Profundidad de la marca de registro del cuello.'
 collarNotchReturn:
-    title: 'Collar notch return' # TODO
-    description: 'Controls the length of the upper notch side. 100% = same as notch depth.' # TODO
+    title: 'Retorno de la marca de registro del cuello' 
+    description: 'Controla el largo del lado de la marca superior de registro. 100% = igual a la profundidad de la marca de registro.'
 collarRoll:
-    title: 'Collar roll' # TODO
-    description: 'The amount by which the top collar is larger than the undercollar.' # TODO
+    title: 'Vuelta del cuello' 
+    description: 'La cantidad por la cual la parte superior del cuello es más grande que la inferior.'
 collarStandBend:
-    title: 'Collar stand bend' # TODO
-    description: 'The bend of the collar stand.' # TODO
+    title: 'Pliegue del pie de cuello' 
+    description: 'El pliegue del pie de cuello.' 
 collarStandCurve:
-    title: 'Collar stand curve' # TODO
-    description: 'The curve of the collar stand.' # TODO
+    title: 'Curva del pie de cuello' 
+    description: 'La curva del pie de cuello.' 
 collarStandWidth:
-    title: 'Collar stand width' # TODO
-    description: 'Widht of the collar stand.' # TODO
+    title: 'Anchura del pie de cuello' 
+    description: 'Anchura del pie de cuello.'
 cuffButtonRows:
-    title: 'Cuff button rows' # TODO
-    description: 'Whether to draft a single or double row of cuff buttons. This option is only relevant for barrel cuffs.' # TODO
+    title: 'Hileras de abotonadura de los puños'
+    description: 'Si deseas dibujar una hilera de botones doble o sencilla para el puño. Esta opción solo es relevante para puños redondos.'
 cuffDrape:
-    title: 'Cuff drape' # TODO
-    description: 'The amount by which the sleeve is wider than the cuff where the are joined.' # TODO
+    title: 'Caída del puño' 
+    description: 'La cantidad por la cual la manga es más ancha que el puño al que está unida.'
 cuffEase:
-    title: 'Cuff ease' # TODO
-    description: 'The amount of ease at your wrist.' # TODO
+    title: 'Holgura del puño' 
+    description: 'La cantidad de holgura en tu muñeca.'
 cuffLength:
-    title: 'Cuff length' # TODO
-    description: 'The length of the cuffs.' # TODO
+    title: 'Largo del puño' 
+    description: 'El largo de los puños.' 
 cuffStyle:
-    title: 'Cuff style' # TODO
-    description: 'The style of the cuffs.' # TODO
+    title: 'Estilo del puño' 
+    description: 'El estilo de los puños.' 
 elasticWidth:
-    title: 'Elastic width' # TODO
-    description: 'Width of the elastic band you intend to use.' # TODO
+    title: 'Ancho del elástico' 
+    description: 'Anchura de la banda elástica que vas a usar.
 endStyle:
-    title: 'End style' # TODO
-    description: 'The style of the end of the tie.' # TODO
+    title: 'Estilo de la punta' 
+    description: 'El estilo del extremo de la corbata'
 extraTopButton:
-    title: 'Extra top button' # TODO
-    description: 'Whether or not to include an extra top button on the front closure.' # TODO
+    title: 'Botón adicional superior' 
+    description: 'Si deseas incluir o no un botón adicional en el cierre frontal.' 
 frontCutawayAngle:
-    title: 'Front opening bottom cutaway angle' # TODO
-    description: 'How much do you want the front to open up below the lower button.' # TODO
+    title: 'Ángulo de apertura del bajo del frente' 
+    description: 'Cuánto quieres que se abra el frente por debajo del botón más bajo.'
 frontCutawayStart:
-    title: 'Front opening bottom cutaway start' # TODO
-    description: 'How much do you want the front to open up below the lower button.' # TODO
+    title: 'Comienzo de la abertura que empieza en el bajo' 
+    description: 'Cuánto quieres que abra el delantero por debajo del botón más bajo.'
 frontDartPlacement:
-    title: 'Front dart placement' # TODO
-    description: 'Location of the front dart as a proportion of your chest circumference. Higher numbers move it more to the side.' # TODO
+    title: 'Situación de la pinza frontal' 
+    description: 'Localización de la pinza frontal como proporción de tu contorno de pecho. Valores elevados la mueven hacia el costado.' 
 frontDrop:
-    title: 'Neckline drop' # TODO
+    title: 'Caída de la línea de cuello' 
     description:
-        _default: 'The amount the front neckline is lowered. Negative values raise the neckline.' # TODO
-        cathrin: 'How much the front panels lower from your hips towards your center front.' # TODO
+        _default: 'La cantidad con que la línea de cuello es rebajada. Valores negativos elevan la línea del cuello.' 
+        cathrin: 'Cuánto bajan los paneles frontales desde tus caderas hasta el centro del frente.' 
 frontInset:
-    title: 'Front inset' # TODO
-    description: 'Amount the front armhole is cut deeper into the front panel.' # TODO
+    title: 'Inserción frontal' 
+    description: 'Cantidad con la cual la sisa frontal es cortada más profundamente en el panel central.' 
 frontPocketDepth:
-    title: 'Front pocket depth' # TODO
-    description: 'The depth of the front pockets, as a factor of the space between your waist and hem.' # TODO
+    title: 'Profundidad del bolsillo frontal'
+    description: 'La profundidad del los bolsillos frontales, como factor de la distancia entre tu cintura y el vuelto.' 
 frontPocketHeight:
-    title: 'Front pocket height' # TODO
-    description: 'The height where the front pocket starts, as a factor of your natural waist to hip measurement.' # TODO
+    title: 'Altura del bolsillo central' 
+    description: 'La altura a la que empieza el bolsillo, como factor de tu medida cintura natural/ cadera.'
 frontPocketPlacement:
-    title: 'Front pocket placement' # TODO
-    description: 'Location of the front pockets as a proportion of your chest circumference. Higher numbers move it more to the side.' # TODO
+    title: 'Localización del bolsillo central' 
+    description: 'Localización de los bolsillos frontales como una proporción de tu contorno de pecho. Valores más altos lo moverán hacia el costado' 
 frontPocketWidth:
-    title: 'Front pocket width' # TODO
-    description: 'The width of the front pocket, as a factor of your chest circumference.' # TODO
+    title: 'Ancho del bolsillo frontal' 
+    description: 'El ancho del bolsillo frontal, como factor de tu contorno de pecho.' 
 frontRise:
-    title: 'Front rise' # TODO
-    description: 'Rise of the front panels at center front, between your breasts. Negative values will lower them.' # TODO
+    title: 'Altura del frente' 
+    description: 'Altura de los paneles frontales en el centro del frente, entre tus pechos. Valores negativos los bajarán.' 
 frontScyeDart:
-    title: 'Front scye dart' # TODO
-    description: 'The amount to take out in a dart at the front of the armhole.' # TODO
+    title: 'Pinza frontal de la sisa'
+    description: 'La cantidad a quitar de una pinza en el frente del hueco de la manga.'
 frontStyle:
-    title: 'Neckline style' # TODO
-    description: 'Whether you want a rounded or classic necline.' # TODO
+    title: 'Estilo del escote' 
+    description: 'Si quieres un estilo redondeado o clásico.'
 headEase:
-    title: 'Head ease' # TODO
-    description: 'The amount of ease to fit the cap on your head.' # TODO
+    title: 'Holgura de la cabeza' 
+    description: 'La cantidad de holgura necesaria para ajustar la capucha a tu cabeza.'
 hemCurve:
-    title: 'Hem curve' # TODO
-    description: 'The height of the curve on a curved hem.' # TODO
+    title: 'Curva del vuelto' 
+    description: 'La altura de la curva en un vuelto redondeado.'
 hemRadius:
-    title: 'Hem radius' # TODO
-    description: 'Radius of the rounded hem. Not relevant if you chose a classic hem.' # TODO
+    title: 'Radio del vuelto' 
+    description: 'Radio del vuelto redondeado. No es relevante si eliges un vuelto clásico.' 
 hemStyle:
-    title: 'Hem style' # TODO
+    title: 'Estilo del vuelto' 
     description:
-        _default: 'Whether you want a rounded or classic hem.' # TODO
-        simon: 'The style of the shirt hem.' # TODO
+        _default: 'Si quieres un vuelto redondeado o clásico.'
+        simon: 'El estilo del vuelto de la camisa.' 
 hipFlare:
-    title: 'Hip flare' # TODO
-    description: 'The amount to widen the shirt below the waist.' # TODO
+    title: 'Vuelo a la cadera' 
+    description: 'Cuánto se ensancha la camisa por debajo de la cintura.'
 hipRise:
-    title: 'Hip rise' # TODO
-    description: 'How much the side panels rise on your hips.' # TODO
+    title: 'Tiro a la cadera' 
+    description: 'Cuánto suben en tus caderas los paneles laterales. 
 hipsEase:
-    title: 'Hips ease' # TODO
-    description: 'The amount of ease at your hips.' # TODO
+    title: 'Holgura de caderas' 
+    description: 'La cantidad de holgura en tus caderas'
 hipsReductionRatioBack:
-    title: 'Hips reduction: back ratio' # TODO
-    description: 'Proportion of the hips to be reduced in back panel shaping. Will also impact side panel shaping.' # TODO
+    title: 'Reducción de cadera: proporción de la espalda' 
+    description: 'Proporción de las caderas a ser reducida de la forma de los paneles de la espalda. También tendrá impacto en la forma de los paneles laterales.' 
 knotWidth:
-    title: 'Knot width' # TODO
-    description: 'The width of the tie at the knot/middle.' # TODO
+    title: 'Ancho del nudo' 
+    description: 'El ancho de la corbata en el nudo o centro.' 
 lapelStart:
-    title: 'Lapel break point' # TODO
-    description: 'Location of the lapel break point (where the front opening starts). Lower values are closer to the waistline, higher values closer to the chestline.' # TODO
+    title: 'Punto de separación de la solapa' 
+    description: 'Localización del punto de separación de la solapa (donde comienza la apertura frontal). Valores más bajos están más cerca de la línea de la cintura, valores más altos están más cerca de la línea del contorno de pecho.' 
 legBonus:
-    title: 'Leg length bonus' # TODO
-    description: 'Extra length to add to the legs.' # TODO
+    title: 'Largo de pierna adicional' 
+    description: 'Largo adicional para añadir a las perneras.' 
 legStretch:
-    title: 'Leg stretch' # TODO
-    description: 'For best results, you want to fit your legs a but more snugly — say no to gaping.' # TODO
+    title: 'Elasticidad de la pierna' 
+    description: 'Para mejores resultados, quieres ajustar las piernas un poco más. Di no a la ropa que cuelga.'
 lengthBonus:
-    title: 'Length bonus' # TODO
-    description: 'The amount to lengthen the garment. A negative value will shorten it.' # TODO
+    title: 'Largo adicional' 
+    description: 'La cantidad necesaria para alargar la prenda. Un valor negativo la acortará.'
 neckInset:
-    title: 'Neck inset' # TODO
-    description: 'Distance from the neck to the waistcoat neckline at the shoulder seam.' # TODO
+    title: 'Inserción del cuello'
+    description: 'Distancia del cuello a la cintura del abrigo en la costura del hombro.' 
 neckReduction:
-    title: 'Center back neck dart' # TODO
-    description: 'Neck shaping at center back as percent of chest circumference.' # TODO
+    title: 'Pinza del centro espalda en el cuello'
+    description: 'Da forma al cuello en el centro espalda como porcentaje del contorno de pecho.'
 necklineBend:
-    title: 'Neckline shape' # TODO
-    description: 'Determines the shape/bend of the neckline at the front.' # TODO
+    title: 'Forma del escote' 
+    description: 'Determina la forma y curvatura del escote en el frente.'
 necklineDrop:
-    title: 'Neckline drop' # TODO
-    description: 'The amount the neck is cutout at the front.' # TODO
+    title: 'Caída del escote'
+    description: 'La cantidad que se recorta del cuello en el frente.' 
 panels:
-    title: 'Number of panels' # TODO
-    description: 'The number of panels to draft. More panels are better to fit a curvier model.' # TODO
+    title: 'Número de paneles' 
+    description: 'El número de paneles a dibujar. Más paneles son mejores de ajustar en una modelo con más curvas.' 
 pouch:
-    title: 'Front pouch' # TODO
-    description: 'Would you like a pouch/pocket on your hoodie?' # TODO
+    title: 'Bolsillo frontal' 
+    description: '¿Te gustaría poner un bolsillo en tu sudadera?' 
 princessSeamSmoothFactor:
-    title: 'Princess seam smooth factor' # TODO
-    description: 'Controls how sharply the princess seam will correct once it''s passed the fullness of your breasts. A high factor will smooth the curve, resulting in a less fitted coat that''s easier to sew. A low factor will sharpen the curve, resulting in a harder to sew seam, and a more fitted coat.' # TODO
+    title: 'Factor de correccion de las costuras princesa' 
+    description: 'Controla cuán pronunciadamente será corregido el corte princesa tras superar el volumen de los senos. Un valor alto suavizará la curva, dando como resultado un abrigo menos ceñido que es más fácil de coser. Un valor bajo hará la curva más pronunciada, dando como resultado un área más difícil de coser y en un abrigo más ceñido.' 
 ribbing:
-    title: Ribbing # TODO
-    description: 'Do you want to include ribbing at the arms and hem, or will you apply a classic hem?' # TODO
+    title: 'Tela elástica para puños'
+    description: '¿Quieres poner bandas en los puños y en la cintura o vas a hacer un vuelto clásico?' 
 ribbingHeight:
-    title: 'Ribbing height' # TODO
-    description: 'The height of the ribbing band at the hem and wrists.' # TODO
+    title: 'Altura de la tela elástica' 
+    description: 'La altura de la tela elástica para las bandas de cintura y puños.' 
 ribbingStretchFactor:
-    title: 'Ribbing stretch factor' # TODO
-    description: 'Determines the negative ease for the ribbing.' # TODO
+    title: 'Factor de elasticidad de la tela para puños' 
+    description: 'Determina la holgura negativa para la tela elástica.' 
 ribbingWidth:
-    title: 'Ribbing width' # TODO
-    description: 'The width of the ribbing you want to use.' # TODO
+    title: 'Ancho de tela elástica para puños' 
+    description: 'El ancho de tela elástica que quieres usar.' 
 rise:
-    title: Rise # TODO
-    description: 'Amount to raise the waist. A negative value will lower it.' # TODO
+    title: 'Tiro' 
+    description: 'Cantidad para subir la cintura. Un valor negativo lo bajará.' 
 rollLineCollarHeight:
-    title: 'Roll line collar height' # TODO
-    description: 'The amount by which the roll line hugs the neck.' # TODO
+    title: 'Altura de la linea de pliegue del cuello' 
+    description: 'La cantidad por la que la línea de pliegue del cuello abraza el cuello' 
 seatEase:
-    title: 'Seat ease' # TODO
-    description: 'The amount of ease at your butt.' # TODO
+    title: 'Holgura de asiento' 
+    description: 'La cantidad de holgura en tu trasero' 
 shoulderEase:
-    title: 'Shoulder ease' # TODO
-    description: 'The amount of ease at your shoulder. This increases the shoulder to shoulder distance to accomodate what you''re wearing under your coat.' # TODO
+    title: 'Holgura del hombro'
+    description: 'La cantidad de holgura en el hombro. Esto incrementa la distancia de hombro a hombro para acomodar la ropa que lleves bajo el abrigo.' 
 shoulderInset:
-    title: 'Shoulder inset' # TODO
-    description: 'Distance from the shoulder point to the waistcoat armhole at the shoulder seam.' # TODO
+    title: 'Inserción del hombro'
+    description: 'Distancia desde el punto del hombro hasta la sisa del chaleco en la costura del hombro.'
 shoulderSlopeReduction:
-    title: 'Shoulder slope reduction' # TODO
-    description: 'The amount by which the shoulder slope is reduced to allow for shoulder padding.' # TODO
+    title: 'Reducción de la inclinación de hombros' 
+    description: 'La cantidad por la cual se reduce la inclinación del hombro para permitir la inserción de una hombrera.' 
 shoulderStrapPlacement:
-    title: 'Shoulderstrap placement' # TODO
-    description: 'Determines whether the shoulder strap is placed closer to the neck (lower numbers) or the shoulder (higher numbers).' # TODO
+    title: 'Situación de las tiras de los hombros' 
+    description: 'Determina si la tira del hombro se coloca más cerca del cuello (valores más bajos) o del hombro (valores más altos).' 
 shoulderStrapWidth:
-    title: 'Shoulderstrap width' # TODO
-    description: 'The width of the shoulder straps.' # TODO
+    title: 'Ancho de las tiras de los hombros' 
+    description: 'El ancho de las tiras de los hombros.'
 sideFrontPlacement:
-    title: 'Front side boundary placement' # TODO
-    description: 'Location of the front/side boundary as a proportion of your chest circumference. Higher numbers make a wider side panel.' # TODO
+    title: 'Situación del límite de los lados y el frente' 
+    description: 'Localización del límite de los lados y el frente como una proporción de tu contorno de pecho. Valores más altos hacen un panel lateral más ancho.' 
 sleeveBend:
-    title: 'Sleeve bend' # TODO
-    description: 'How much do you want the sleeve to be bent at the elbow.' # TODO
+    title: 'Doblez de la manga' 
+    description: 'Cuánto quieres que la manga se doble en el codo'
 sleeveLengthBonus:
-    title: 'Sleeve length bonus' # TODO
-    description: 'The amount to lengthen the sleeve. A negative value will shorten it.' # TODO
+    title: 'Largo de manga adicional' 
+    description: 'El aumento de largo de la manga. Un valor negativo la acortará.' 
 sleevePlacketLength:
-    title: 'Sleeve placket length' # TODO
-    description: 'The length of the sleeve placket.' # TODO
+    title: 'Largo del puño de la manga' 
+    description: 'El largo del puño de la manga.'
 sleevePlacketWidth:
-    title: 'Sleeve placket width' # TODO
-    description: 'The width of the sleeve placket.' # TODO
+    title: 'Anchura del puño de la manga'
+    description: 'El ancho del puño de la manga.'
 sleevecapEase:
-    title: 'Sleevecap ease' # TODO
-    description: 'The amount by which the sleevecap seam is longer than the armhole seam.' # TODO
+    title: 'Holgura de la cabeza de la manga' 
+    description: 'La cantidad por la cual la costura de la cabeza de la manga es más larga que la costura de la sisa.' 
 sleevecapHeightFactor:
-    title: 'Sleevecap height factor' # TODO
-    description: 'Controls the height of the sleevecap. A higher value results in a higher and more narrow sleevecap.' # TODO
+    title: 'Factor de altura de la cabeza de la manga' 
+    description: 'Controla la altura de la cabeza de la manga. Un valor más alto da una cabeza de manga más alta y estrecha.'
 splitYoke:
-    title: 'Split yoke' # TODO
-    description: 'Whether to draft a split or regular yoke.' # TODO
+    title: 'Canesú partido'
+    description: 'Para dibujar un canesú partido o entero.' 
 stretch:
-    title: Stretch # TODO
-    description: 'The amount of negative ease.' # TODO
+    title: 'Elasticidad'
+    description: 'La cantidad de holgura negativa.' 
 stretchFactor:
-    title: Stretch # TODO
-    description: 'Determines the horizontal negative ease.' # TODO
+    title: 'Elasticidad'
+    description: 'Determina la holgura negativa horizontal.' 
 tipWidth:
-    title: 'Tip width' # TODO
+    title: 'Ancho del extremo' 
     description:
-        _default: 'The width of the wings of the bow tie at the tip.' # TODO
-        trayvon: 'The width of the tie at the tip.' # TODO
+        _default: 'El ancho de las alas de la pajarita en las puntas.' 
+        trayvon: 'El ancho de la corbata en la punta.' 
 waistEase:
-    title: 'Waist ease' # TODO
-    description: 'The amount of ease at your (natural) waist.' # TODO
+    title: 'Holgura de la cintura'
+    description: 'La cantidad de holgura en la cintura natural.' 
 waistReduction:
-    title: 'Waist reduction' # TODO
-    description: 'The amount by which you want the corset to pinch your waist.' # TODO
+    title: 'Reducción de la cintura' 
+    description: 'El grado de ajuste que se requiera del corset en la cintura.' 
 waistReductionRatioBack:
-    title: 'Waist reduction: back ratio' # TODO
-    description: 'Proportion of the waist to be reduced in back panel shaping. Will also impact side panel shaping.' # TODO
+    title: 'Reducción de la cintura: proporción trasera' 
+    description: 'Proporción de la cintura a reducir en la forma de la pieza de espalda. También repercutirá en la forma del panel lateral.' 
 waistReductionRatioFront:
-    title: 'Waist reduction: front ratio' # TODO
-    description: 'Proportion of the waist to be reduced in the front dart. Will also impact side panel shaping.' # TODO
+    title: 'Reducción de la cintura: proporción frontal' 
+    description: 'Proporción de la cintura a reducir en la pinza frontal. También repercutirá en la forma del panel lateral.' 
 waistbandWidth:
-    title: 'Waistband width' # TODO
-    description: 'The width of the waistband.' # TODO
+    title: 'Ancho de la pretina' 
+    description: 'El ancho de la pretina.'
 yokeDart:
-    title: 'Yoke dart' # TODO
-    description: 'Whether to include a dart at the sides of the yoke to fit a rounder back.' # TODO
+    title: 'Pinza del canesú' 
+    description:'Si incluir una pinza a los lados del canesú para ajustar una espalda redondeada.' 
